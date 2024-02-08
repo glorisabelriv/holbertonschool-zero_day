@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 #!/bin/bash echo"Best School"
+=======
+#!/bin/bash echo"Best School"
+>>>>>>> main
